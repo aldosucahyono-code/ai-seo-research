@@ -1,98 +1,217 @@
-# AI-Powered SEO Content Production Research
+# AI SEO Expert Research
 
-## Overview
+> A structured research repository focused on **AI-Powered SEO Content Production**.
 
-This repository documents my progress in completing the AI-powered SEO research assignment.
+This repository was created as part of the **100Hires Technical Research Assignment**. It contains curated research from recognized SEO practitioners, including LinkedIn posts, YouTube transcripts, and supporting materials, to build a high-quality knowledge base for AI-powered SEO content production.
 
-The objective of this project is to build a structured research repository for collecting insights from industry experts across LinkedIn and YouTube.
+---
+
+# Assignment Objective
+
+The objective of this project is to:
+
+- Identify experienced SEO professionals who actively publish practical insights.
+- Collect and organize research from multiple public sources.
+- Build a structured repository that can support future AI-powered SEO playbooks.
+- Demonstrate the ability to organize research using GitHub and technical documentation best practices.
+
+---
+
+# Quick Navigation
+
+- [Project Overview](#project-overview)
+- [Research Topic](#research-topic)
+- [Repository Statistics](#repository-statistics)
+- [Selected Experts](#selected-experts)
+- [Repository Structure](#repository-structure)
+- [Research Methodology](#research-methodology)
+- [Documentation Standards](#documentation-standards)
+- [Repository Status](#repository-status)
+- [License](#license)
+
+---
+
+# Project Overview
+
+This repository documents research collected from leading SEO professionals who regularly publish educational content related to AI-assisted content creation, search quality, technical SEO, and Google's evolving search ecosystem.
+
+Rather than collecting generic SEO advice, the repository focuses on practitioners with demonstrated industry experience and publicly available educational resources.
+
+---
+
+# Research Topic
+
+**AI-Powered SEO Content Production**
+
+Research areas include:
+
+- AI-assisted content creation
+- Google Search
+- AI Search
+- Google AI Overviews
+- E-E-A-T
+- Technical SEO
+- Content Strategy
+- Search Quality
+- Google Core Updates
+- Link Building
+- Organic Growth
+
+---
+
+# Repository Statistics
+
+| Category | Count |
+|----------|------:|
+| Selected Experts | 11 |
+| LinkedIn Research Documents | 11 |
+| YouTube Research Documents | 11 |
+| Total Research Documents | 22 |
+
+---
+
+# Key Deliverables
+
+- ✅ 11 verified SEO experts
+- ✅ 11 LinkedIn research documents
+- ✅ 11 YouTube research documents
+- ✅ Standardized research templates
+- ✅ Documented research methodology
+- ✅ Organized GitHub repository
+
+---
+
+# Selected Experts
+
+- Neil Patel
+- Rand Fishkin
+- Lily Ray
+- Aleyda Solis
+- Kevin Indig
+- Brian Dean
+- Barry Schwartz
+- Cyrus Shepard
+- Glenn Gabe
+- Marie Haynes
+- Tom Capper
+
+A complete list of experts is available in:
+
+```text
+research/sources.md
+```
 
 ---
 
 # Repository Structure
 
-```
-research/
+```text
+AI-SEO-RESEARCH/
 │
-├── sources.md
-├── linkedin-posts/
-├── youtube-transcripts/
-└── other/
-
-PROJECT_STATUS.md
-README.md
+├── README.md
+│
+└── research/
+    ├── README.md
+    ├── sources.md
+    ├── PROJECT_STATUS.md
+    ├── RESEARCH_STANDARDS.md
+    ├── linkedin-posts/
+    ├── youtube-transcripts/
+    └── other/
 ```
 
 ---
 
-# Tools Installed
+# Research Methodology
 
-- Git
-- GitHub CLI
-- Visual Studio Code
-- GitHub Copilot Chat
-- Claude Code CLI
+The research process follows a standardized workflow:
 
----
-
-# Completed Steps
-
-- Installed Git
-- Installed GitHub CLI
-- Authenticated GitHub CLI
-- Created GitHub repository
-- Initialized local repository
-- Organized repository structure
-- Created documentation files
-- Prepared research folders
+1. Verify expert identity.
+2. Review official LinkedIn profile.
+3. Analyze recent LinkedIn content.
+4. Select relevant YouTube videos.
+5. Review transcripts or official descriptions.
+6. Produce structured research summaries.
+7. Extract key insights and actionable takeaways.
+8. Document metadata and source references.
+9. Perform quality verification.
 
 ---
 
-# Current Progress
+# Documentation Standards
 
-The repository structure has been completed successfully.
+Every research document follows a consistent structure to improve readability and maintainability.
 
-The documentation has been prepared and the repository is ready for the research phase.
+Typical sections include:
 
----
+- Identity / Video Information
+- Executive Summary
+- Research Summary
+- Discussion Timeline
+- Key Insights
+- Actionable Takeaways
+- AI SEO Relevance
+- Mentioned Concepts
+- Mentioned Resources
+- Research Metadata
+- Verification Log
+- Research Status
 
-# Challenges Encountered
+Documentation standards are available at:
 
-### Claude Code Authentication
-
-During setup I discovered that Claude Code requires either:
-
-- Claude Pro / Max subscription
-- Anthropic API billing
-
-At the moment I do not have access to a paid Claude subscription or an Anthropic API billing account.
-
-Because of this limitation, I completed all remaining repository setup tasks while documenting the blocker.
-
----
-
-# Solution
-
-To continue progressing on the assignment, I:
-
-- Completed every step that did not require a paid Claude subscription.
-- Organized the repository.
-- Documented the current blocker.
-- Prepared the repository so research can begin immediately once Claude authentication becomes available.
+```text
+research/RESEARCH_STANDARDS.md
+```
 
 ---
 
-# Status
+# Repository Status
 
-Current completion estimate:
+| Item | Status |
+|------|--------|
+| Research Planning | ✅ Complete |
+| Expert Selection | ✅ Complete |
+| LinkedIn Research | ✅ Complete |
+| YouTube Research | ✅ Complete |
+| Documentation | ✅ Complete |
+| Repository Organization | ✅ Complete |
 
-**85% Complete**
-
-Remaining task:
-
-- Authenticate Claude Code using a supported subscription or API billing.
+**Current Version:** **v1.0.0**
 
 ---
 
-Author
+# Future Work
 
-Albertus Aldo Sucahyono
+Potential future additions include:
+
+- Additional SEO experts
+- Conference presentations
+- Podcast transcripts
+- Google Search documentation
+- AI Search case studies
+- Generative Engine Optimization (GEO) research
+
+---
+
+# Notes
+
+- All research is based on publicly available sources.
+- Official sources are prioritized whenever available.
+- Research summaries are written in original words.
+- This repository is intended for educational and research purposes.
+
+---
+
+# License
+
+This repository is provided for educational and research purposes.
+
+No copyrighted material is redistributed. All summaries and analyses are original works based on publicly available information.
+
+---
+
+**Research Standard**
+
+**VELOX ET EXACTUS**
+
+*Fast. Precise. Evidence-Based.*
